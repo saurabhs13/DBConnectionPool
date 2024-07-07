@@ -1,5 +1,5 @@
 # DBConnectionPool
-Prototype to demonstrate connection pooling.
+Prototype to demonstrate database connection pooling.
 
 Setup
 1. Spin up a postgres container using docker.
